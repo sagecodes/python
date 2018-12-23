@@ -7,9 +7,33 @@ I want to document [python](https://www.python.org/) and relevant libraries/fram
 ### Structure
 
 - Basics
+    - What is Python
+    - Printing
+    - Comments
+    - Variables
+    - Data Types
+        - Numbers
+        - Strings
+        - Booleans
+        - Lists
+        - Dictionaries
+    - Comparison Operators
+    - Spacing
+    - Conditionals
+    - Loops
+    - Functions
+    - Input (Interact with users)
+    
 
 - Data
 
 - Machine Learning
 
 - Deep Learning
+
+- Installations
+    - Install Python
+    - Install Anaconda
+
+- Managment
+    - Using Anaconda 
